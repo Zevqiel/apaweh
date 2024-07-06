@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Apaweh" ALTER COLUMN "createdAt" DROP DEFAULT,
+ALTER COLUMN "title" SET DATA TYPE TEXT;
